@@ -13,4 +13,3 @@ Fall 2021
 + Last Name
 * Date of Birth
 * Blood Type
-* gender
