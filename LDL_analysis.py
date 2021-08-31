@@ -19,7 +19,7 @@ def LDL_analysis():
 
 def LDL_Driver():
     LDL_value = ldl_input()
-    LDL_character = ldl_analysis(LDL_value)
+    LDL_character = ldl_analyze(LDL_value)
     ldl_output(LDL_value, LDL_character)
 
 def ldl_input():
