@@ -1,6 +1,6 @@
 def test_slope():
     from coordinate_function import slope
-    result1 = slope(0,0,2,2)
+    result = slope(0,0,2,2)
     expected = 1
     assert result == expected
 
